@@ -1,0 +1,38 @@
+body {
+    font-family: 'Cabin', sans-serif;
+}
+
+.buttonDump {
+    margin-bottom: 1em;
+}
+
+.userButtons {
+    margin-right: 1em;
+    margin-top: 1em;
+}
+
+.navbar-brand {
+    font-size: 3em;
+}
+
+.card {
+    border: .1em solid lightgray;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+}
+
+p {
+    text-align: center;
+    margin-top: .8em;
+    margin-bottom: .8em;
+}
+
+.linkURL {
+    font-size: .7em;
+    text-align: center;
+}
+
+.navbar {
+    border-bottom: .1em solid darkgrey;
+}
